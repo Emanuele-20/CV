@@ -75,18 +75,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2020 to July 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, NodeJS
+- HTML, CSS, JS ,jQuery
+- RSpec, Jasmine, Jest
 
-#### Your University / College (start_date to end_date)
+#### ITC "F.Marchi" - High School Diploma 
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Accountant
+- Public and Private Law
+- Software Developer
 
 #### Any other qualifications
 
