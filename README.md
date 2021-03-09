@@ -14,7 +14,8 @@ I am a passionate, hard worker and motivated junior software developer with a de
 
 ## Experience
 
-**TIM - Telecom Italia Mobile** (September 2012 – October 2018)  
+**TIM - Telecom Italia Mobile** - Florence, Italy
+(September 2012 – October 2018)  
 Client Coach - Retail Sales Advisor 
 
 * Developed negotiation, communication and analysis skills thanks to my coaching role, where I used to help customers familiarize with new technologies and explain how our product and services can implement the automatization of their lives. 
