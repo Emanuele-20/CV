@@ -4,8 +4,13 @@
 <h3 align="center" >Contacts</h3>
 
 <p align="center" >
+  
 <a href="https://www.linkedin.com/in/emanuele-pace10/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn Icon"></a>
-<a href="https://www.linkedin.com/in/emanuele-pace10/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn Icon"></a>
+<a href="mailto:emanuele.10@utlook.it"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn Icon"></a>
+<a href="https://github.com/Emanuele-20"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""></a>
+
+  https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+
 </p>
 
 ---------------
