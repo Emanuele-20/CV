@@ -24,7 +24,7 @@ During this amazing experience I developed a strong passion and curiosity about 
 
 I also had many formative experiences in different shops around my country where understanding the different teams dynamics and needs was foundamental for developing my own team-skills and apply what I learned in own my team.
 
-Thanks to that experience I started to be curious about what is " behind the tecnologies " I worked with for many years and as soon arrived in UK, 3 years ago,  I decided that will be my new career.
+Thanks to that experience I started to be curious about what is " behind the tecnologies " I worked with for many years and as soon arrived in UK, I decided that will be my new career.
 
 I jumped in  [Makers Academy](https://makers.tech/) bootcamp, where I quickly learned engineering best practices, tools and methodologies and the importance of deconstruct big problems into small ones and solve them in order to solve the bigger coding issues.
 I also discovered how much I enjoy learn new tecnologies and apply them to my projects.
