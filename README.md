@@ -3,7 +3,7 @@
 I am a passionate, hard worker and motivated junior software developer with a deep-rooted passion for my own self development. I really enjoy creating clean and test-driven code in a stimulating working environment to build product and services consumers can enjoy. 
 
 
-I spent almost my all life in my native country, Italy, where in the last 6 years I worked as Client Coach and Retailer for the main italian telecomunication company. [TIM](https://www.tim.it/)
+I spent almost my all life in my native country, Italy, where in the last 6 years I worked as Client Coach and Retailer for the main italian telecomunication company -  [TIM](https://www.tim.it/)
 
 During this long experince I ever work with a multitude of technologies such as Smartphone, Iot, Google Home,  Drones, Smartwatch, Computers but also set contracts about for fibre broadband, Sky, Google Nest for private customers and companies.
 
