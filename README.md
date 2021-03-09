@@ -13,7 +13,8 @@ I also had many formative experiences in different shops around my country where
 
 Thanks to that experience I start to be curios about what is " behind the tecnologies " I worked with for many years and as soon arrived in UK I decided that will be my new career.
 
-I attempt a [Makers Academy](https://makers.tech/) bootcamp, where I quickly learned engineering best practices, tools and methodologies and the importance of a close-knit team and I also discovered how much I enjoy learn new tecnologies and apply on my projects my knowledge.
+I attempt [Makers Academy](https://makers.tech/) bootcamp, where I quickly learned engineering best practices, tools and methodologies and the importance of deconstruct big problems in small ones and solve them in order to solve the bigger coding issues.
+I also discovered how much I enjoy learn new tecnologies and apply on my projects my knowledge.
 
 ## Projects
 
