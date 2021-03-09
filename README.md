@@ -1,4 +1,4 @@
-## Emanuele Pace
+<h1 align="center" >Emanuele Pace</h1>
 
 I am a passionate, hard worker and motivated junior software developer with a deep-rooted passion for my own self development. I really enjoy creating clean and test-driven code in a stimulating working environment to build product and services consumers can enjoy and I am a strongly Team Work believer.
 
