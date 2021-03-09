@@ -13,20 +13,19 @@
 ---------------
 
 
-I am a passionate, hard worker and motivated junior software developer with a deep-rooted passion for my own self development. I really enjoy creating clean and test-driven code in a stimulating working environment to build product and services consumers can enjoy and I am a strongly Team Work believer.
+I am a passionate, hard worker and motivated junior software developer with a deep-rooted passion for my own self development. I really enjoy creating a clean and test-driven code in a stimulating work environment to build products and services consumers can enjoy and I am a strong believer in team work.
 
+I spent almost my all life in my native country, Italy, where in the last 6 years I worked as Client Coach and Retailer for one of the biggest italian telecomunication companies -  [TIM](https://www.tim.it/)
 
-I spent almost my all life in my native country, Italy, where in the last 6 years I worked as Client Coach and Retailer for one of the biggest italian telecomunication company -  [TIM](https://www.tim.it/)
+During this long experince I worked with a multitude of technologies such as Smartphone, Iot, Google Home, Drones, Smartwatch, Computers but also set contracts about fibre broadband, Sky, Google Nest for private customers and companies.
 
-During this long experince I worked with a multitude of technologies such as Smartphone, Iot, Google Home, Drones, Smartwatch, Computers but also set contracts about for fibre broadband, Sky, Google Nest for private customers and companies.
-
-During this amazing experience I developed a strong passion and curiosity about the tech world in general, but also learn how important are the soft-skills, how important is learn how comunicate with customers, how decisive is understand quickly their issues and find the best solution for their needs.
+During this amazing experience I developed a strong passion and curiosity about the tech world in general, but also learned how important soft-skills are, comunicate well with customers, understand quickly their issues and find the best solution for their needs.
 
 I also had many formative experiences in different shops around my country where understanding the different teams dynamics and needs was foundamental for developing my own team-skills and apply what I learned in own my team.
 
-Thanks to that experience I started to be curious about what is " behind the tecnologies " I worked with for many years and as soon arrived in UK, I decided that will be my new career.
+Thanks to that experience I started to be curious about what is 'behind the tecnologies' I worked with for many years and as soon arrived in UK, I decided that will be my new career.
 
-I jumped in  [Makers Academy](https://makers.tech/) bootcamp, where I quickly learned engineering best practices, tools and methodologies and the importance of deconstruct big problems into small ones and solve them in order to solve the bigger coding issues.
+I enrolled in  [Makers Academy](https://makers.tech/) bootcamp, where I quickly learned engineering best practices, tools and methodologies and the importance of deconstruct big problems into small ones and solve them in order to solve the bigger coding issue.
 I also discovered how much I enjoy learn new tecnologies and apply them to my projects.
 
 ## Projects
