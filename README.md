@@ -1,13 +1,15 @@
-## Your Name
+## Emanuele PAce
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a passionate, hard worker and motivated junior software developer with a deep-rooted passion for my own self development. I really enjoy creating clean and test-driven code in a stimulating working environment to build product and services consumers can enjoy. 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **CodeQuest()**              | Final Makers project developing a game for children to develop soft developer skills | JavaScript, Node, React, Redux, Tachyons, CSS, Jest, Travis
+ |
+| **Thermostat** | A funtional Thermostat Project  | HTML, CSS, JS, NodeJS, jQuery, Jest              |
+| **Checkout** | Supermarket Checkout | JS, NodeJs, Jest              |
 
 ## Experience
 
