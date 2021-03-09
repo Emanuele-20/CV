@@ -9,11 +9,11 @@ During this long experince I worked with a multitude of technologies such as Sma
 
 During this amazing experience I developed a strong passion and curiosity about the tech word in general, but also learn how important are the soft-skills, how important is learn how comunicate with customers, how decisive is understand quickly their issues and find the best solution for their needs.
 
-I also had many formative experiences in different shops around my country where understanding the different teams dynamics and needs was foundamental for developing my own team-skills and apply what I learnt on my team.
+I also had many formative experiences in different shops around my country where understanding the different teams dynamics and needs was foundamental for developing my own team-skills and apply what I learnt on own my team.
 
-Thanks to that experience I start to be curios about what is " behind the tecnologies " I worked with for many year and as soon arrived in UK I decided that will be my new career.
+Thanks to that experience I start to be curios about what is " behind the tecnologies " I worked with for many years and as soon arrived in UK I decided that will be my new career.
 
-I attempt a Makers Academy bootcamp, where I quickly learned engineering best practices, tools and methodologies and the importance of a close-knit team and I also discovered how much I enjoy creating clean and test-driven code in a stimulating working environment to build product and services consumers can enjoy. 
+I attempt a [Makers Academy](https://makers.tech/) bootcamp, where I quickly learned engineering best practices, tools and methodologies and the importance of a close-knit team and I also discovered how much I enjoy learn new tecnologies and apply on my projects my knowledge.
 
 ## Projects
 
