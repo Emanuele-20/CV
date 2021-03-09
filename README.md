@@ -6,7 +6,7 @@ I am a passionate, hard worker and motivated junior software developer with a de
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **CodeQuest()**              | Final Makers project developing a game for children to develop soft developer skills | JavaScript, Node, React, Redux, Tachyons, CSS, Jest, Travis|
+| [**CodeQuest()**](https://github.com/Emanuele-20/codeQuest)| Final Makers project developing a game for children to develop soft developer skills | JavaScript, Node, React, Redux, Tachyons, CSS, Jest, Travis|
 | **Thermostat** | A funtional Thermostat Project  | HTML, CSS, JS, NodeJS, jQuery, Jest              |
 | **Checkout** | Supermarket Checkout | JS, NodeJs, Jest              |
 | **Scrabble** | Scrabble Game | JS, NodeJs, Jest              |
