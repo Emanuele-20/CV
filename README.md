@@ -3,8 +3,10 @@
 
 <h3 align="center" >Contacts</h3>
 
-
+<p align="center" >
 <a href="https://www.linkedin.com/in/emanuele-pace10/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn Icon"></a>
+<a href="https://www.linkedin.com/in/emanuele-pace10/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn Icon"></a>
+</p>
 
 ---------------
 
