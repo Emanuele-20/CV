@@ -4,9 +4,7 @@
 <h3 align="center" >Contacts</h3>
 
 
-[![LinkedIn Profile]](https://www.linkedin.com/in/emanuele-pace10/)
-[![LinkedIn Profile]](https://www.linkedin.com/in/olatunji-oduola-b8433277/)
-
+[![LinkedIn Profile](https://www.linkedin.com/in/emanuele-pace10/)]
 
 ---------------
 
