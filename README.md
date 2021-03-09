@@ -57,17 +57,18 @@ Client Coach - Retail Sales Advisor
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### Team Work
+### Team Work
 
-Working in different stores and with different teams during my carrer let me constantly improve my soft-skill that I consider as important as the technical skills.
-In the past I found myself have often meeting with my collegues where we had to decide the best strategy for achieve our montly target, which services implement in order to find the best feedback from our customers and even decide if and when change quickly strategy if something suddenly changed.
-Even during my bootcamp, constantly pair with other students every day forced you to understand the people first, help them if you know something more and continuosly ask questions if you don't understand something. 
-For all these reasons I contiuosly attend weekly process workshop and reviews with other students and coaches.
-During this particular moment for everybody, where the most of the work is decentralized, is more and more important create and support a healty team work environment and being a truly beliver of the the balance of a team
+Working in different stores and with different teams during my career let me constantly improve my soft-skill that I consider as much important as the technical skills.
+In the past, I found myself often meeting with my colleagues where we had to decide the best strategy for achieving our monthly targets, which services to implement in order to find the best feedback from our customers, and even decide if and when to quickly change strategy if something suddenly happened.
+Even during my Bootcamp, constantly pair with other students every day forced me to understand the people first, help them if you know something more, and continuously ask questions if you don't understand a concept. 
+For all these reasons I continuously attend weekly process workshops and reviews with other students and coaches.
+During this particular moment for everybody, where most of the work is decentralized, is more and more important to create and support a healthy team-work environment and being a true believer in the balances that each team has.
 
-#### Problem Solving 
+### Problem Solving 
 
 Set new strategies and plans in order to achieve goals has been always the approach that I had on my old jobs. 
+Deconstruct a big problem, decide wich tecnologies use in order to solve our problems is one of the kye-concepts of TDD development process and we were forced to stick to this amazing practice for all our Bootcamp. 
 
 
 - Experience
