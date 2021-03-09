@@ -14,9 +14,26 @@ I am a passionate, hard worker and motivated junior software developer with a de
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**TIM - Telecom Italia Mobile** (September 2012 – October 2018)  
+Client Coach - Retail Sales Advisor 
 
+* Developed negotiation, communication and analysis skills thanks to my coaching role, where I used to help customers familiarize with new technologies and explain how our product and services can implement the automatization of their lives. 
+
+ 
+
+* Assisted solving technologies devices issues, hardware and software side. 
+
+ 
+
+* Planning team strategies to achieve the company’s monthly target effectively working with the store manager and area manager collaboration. 
+
+ 
+
+* Created staff members schedules trying to balance all their requests and needs to keep a strong and motivated group so they worked productively. 
+
+ 
+
+* Sell technologies devices and broadband for private and business customers. 
 - Any experience relevent to software development
 
 **Company Name** (start-date to end-date)  
