@@ -57,7 +57,18 @@ Client Coach - Retail Sales Advisor
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Team Work
+
+Working in different stores and with different teams during my carrer let me constantly improve my soft-skill that I consider as important as the technical skills.
+In the past I found myself have often meeting with my collegues where we had to decide the best strategy for achieve our montly target, which services implement in order to find the best feedback from our customers and even decide if and when change quickly strategy if something suddenly changed.
+Even during my bootcamp, constantly pair with other students every day forced you to understand the people first, help them if you know something more and continuosly ask questions if you don't understand something. 
+For all these reasons I contiuosly attend weekly process workshop and reviews with other students and coaches.
+During this particular moment for everybody, where the most of the work is decentralized, is more and more important create and support a healty team work environment and being a truly beliver of the the balance of a team
+
+#### Problem Solving 
+
+Set new strategies and plans in order to achieve goals has been always the approach that I had on my old jobs. 
+
 
 - Experience
 - Achievements
