@@ -1,8 +1,11 @@
 <h1 align="center" >Emanuele Pace</h1>
 
----------------
 
 <h3 align="center" >Contacts</h3>
+
+---------------
+
+<h3 align="center" >[LinkedIn](https://www.linkedin.com/in/emanuele-pace10/)</h3>
 
 
 
