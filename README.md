@@ -16,7 +16,7 @@
 I am a passionate, hard worker and motivated junior software developer with a deep-rooted passion for my own self development. I really enjoy creating clean and test-driven code in a stimulating working environment to build product and services consumers can enjoy and I am a strongly Team Work believer.
 
 
-I spent almost my all life in my native country, Italy, where in the last 6 years I worked as Client Coach and Retailer for the main italian telecomunication company -  [TIM](https://www.tim.it/)
+I spent almost my all life in my native country, Italy, where in the last 6 years I worked as Client Coach and Retailer for one of the biggest italian telecomunication company -  [TIM](https://www.tim.it/)
 
 During this long experince I worked with a multitude of technologies such as Smartphone, Iot, Google Home, Drones, Smartwatch, Computers but also set contracts about for fibre broadband, Sky, Google Nest for private customers and companies.
 
@@ -24,7 +24,7 @@ During this amazing experience I developed a strong passion and curiosity about 
 
 I also had many formative experiences in different shops around my country where understanding the different teams dynamics and needs was foundamental for developing my own team-skills and apply what I learned in own my team.
 
-Thanks to that experience I started to be curious about what is " behind the tecnologies " I worked with for many years and as soon arrived in UK I decided that will be my new career.
+Thanks to that experience I started to be curious about what is " behind the tecnologies " I worked with for many years and as soon arrived in UK, 3 years ago,  I decided that will be my new career.
 
 I jumped in  [Makers Academy](https://makers.tech/) bootcamp, where I quickly learned engineering best practices, tools and methodologies and the importance of deconstruct big problems into small ones and solve them in order to solve the bigger coding issues.
 I also discovered how much I enjoy learn new tecnologies and apply them to my projects.
