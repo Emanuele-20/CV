@@ -2,6 +2,14 @@
 
 I am a passionate, hard worker and motivated junior software developer with a deep-rooted passion for my own self development. I really enjoy creating clean and test-driven code in a stimulating working environment to build product and services consumers can enjoy. 
 
+
+I spent almost my all life in my native country, Italy, where in the last 6 years I worked as Client Coach and Retailer for the main italian telecomunication company. [TIM](https://www.tim.it/)
+
+During this long experince I ever work with a multitude of technologies such as Smartphone, Iot, Google Home,  Drones, Smartwatch, Computers but also set contracts about for fibre broadband, Sky, Google Nest for private customers and companies.
+
+During this amazing experience I developed a strong passion and curiosity about the tech word in general, but also learn how important are the soft-skills, how important is learn how comunicate with customers, how decisive is understand quickly their issues and find the best solution for their needs.
+
+I also had many formative experiences in different shops around my country where understanding the different teams dynamics and needs was foundamental for developing my own team-skills and apply what I learnt on my team.
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -37,10 +45,6 @@ Client Coach - Retail Sales Advisor
 * Sell technologies devices and broadband for private and business customers. 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
