@@ -55,8 +55,6 @@ Client Coach - Retail Sales Advisor
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
 ### Team Work
 
 Working in different stores and with different teams during my career let me constantly improve my soft-skill that I consider as much important as the technical skills.
@@ -67,15 +65,19 @@ During this particular moment for everybody, where most of the work is decentral
 
 ### Problem Solving 
 
-Set new strategies and plans in order to achieve goals has been always the approach that I had on my old jobs. 
+Set new strategies and plans in order to achieve goals has been always the approach that I tried to have at my old jobs and fortunately the first mental approach learnead at Maker, 'is not hard is just knew'.
 Deconstruct a big problem, decide wich tecnologies use in order to solve our problems is one of the kye-concepts of TDD development process and we were forced to stick to this amazing practice for all our Bootcamp. 
+When we worked in team for our final 
 
+### Self driven learning
+
+Constantely during our Bootcamp we had to learn new technologies, languages, testing framework and methodologies and most of our time was center on solo learning moments with the possibility, during our pair sessions ,to share our knowledge. Personally before and after my Makers experience I worked as a waiter and set my days in order to self learn JS server side and improve my NodeJS skills. In my old job in Italy every months we received guide-lines to learn new plans and type of conctracts the company decided to propose to our customers those was followed to new functionality to learn on our software, but also working in software differents from ours; when we proposed plans for others on demand services we had to learn how that systems work too and become familiar with the as soon as possible.
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
