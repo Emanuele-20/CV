@@ -46,7 +46,9 @@ Client Coach - Retail Sales Advisor
 
 * Assisted solving technologies devices issues, hardware and software side. 
 
-* Planning team strategies to achieve the company’s monthly target effectively working with the store manager and area manager collaboration respecting mandatories deadlines
+* Planning team strategies to achieve the company’s monthly target effectively working with the store manager and area manager collaboration respecting mandatories deadlines.
+
+* Learn constantly new plans and contracts for our customers and new software and digitals platform internal and from third parts.
 
 * Created staff members schedules trying to balance all their requests and needs to keep a strong and motivated group so they worked productively. 
 
