@@ -71,7 +71,7 @@ When we worked in team for our final
 
 ### Self driven learning
 
-Constantely during our Bootcamp we had to learn new technologies, languages, testing framework and methodologies and most of our time was center on solo learning moments with the possibility, during our pair sessions ,to share our knowledge. Personally before and after my Makers experience I worked as a waiter and set my days in order to self learn JS server side and improve my NodeJS skills. In my old job in Italy every months we received guide-lines to learn new plans and type of conctracts the company decided to propose to our customers those was followed to new functionality to learn on our software, but also working in software differents from ours; when we proposed plans for others on demand services we had to learn how that systems work too and become familiar with the as soon as possible.
+Constantely during our Bootcamp we had to learn new technologies, languages, testing framework and methodologies and most of our time was center on solo learning moments with the possibility, during our pair sessions ,to share our knowledge. Personally before and after my Makers experience I worked as a waiter and set my days in order to self learn JS server side and improve my NodeJS skills. In my old job in Italy every months we received guide-lines to learn new plans and type of conctracts the company decided to propose to our customers those was followed to new functionality to learn on our software, but also working in software differents from ours; when we proposed plans for others on demand services (Sky, TIMVISION +, Mediaset Premium) we had to learn how those systems work too and become familiar with them as soon as possible.
 
 - Experience
 - Achievements
@@ -107,5 +107,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
-
+- Love play tennis and table football
+- Watching NBA
+- Prepare pasta recipes, my next team have to try my :spaghetti:
 Any cool stuff that makes you a super part of a software development team
