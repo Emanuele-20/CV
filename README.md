@@ -97,6 +97,6 @@ Constantely during our Bootcamp we had to learn new technologies, languages, tes
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
-- Love play tennis and table football :tennis:
+- Love play tennis and foosball :tennis:
 - Watching NBA :basketball:
 - Prepare pasta recipes, my next team have to try my :spaghetti:
