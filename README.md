@@ -13,20 +13,19 @@
 ---------------
 
 
-I am a passionate, hard worker and motivated junior software developer with a deep-rooted passion for my own self development. I really enjoy creating a clean and test-driven code in a stimulating work environment to build products and services consumers can enjoy and I am a strong believer in team work.
+I am a passionate, hard worker, and motivated junior software developer with a deep-rooted passion for my own self-development. I really enjoy creating a clean and test-driven code in a stimulating work environment to build products and services consumers can enjoy and I am a strong believer in teamwork.
 
-I spent almost my all life in my native country, Italy, where in the last 6 years I worked as Client Coach and Retailer for one of the biggest italian telecomunication companies -  [TIM](https://www.tim.it/)
+I spent almost my all life in my native country, Italy, where in the last 6 years I worked as a Client Coach and Retailer for one of the biggest Italian telecommunications companies - [TIM](www.tim.it)
 
-During this long experince I worked with a multitude of technologies such as Smartphone, Iot, Google Home, Drones, Smartwatch, Computers but also set contracts about fibre broadband, Sky, Google Nest for private customers and companies.
+During this long experience, I worked with a multitude of technologies such as Smartphone, IoT, Google Home, Drones, Smartwatch, Computers but also set contracts about fiber broadband, Sky, Google Nest for private customers and companies.
 
-During this amazing experience I developed a strong passion and curiosity about the tech world in general, but also learned how important soft-skills are, comunicate well with customers, understand quickly their issues and find the best solution for their needs.
+During this amazing experience, I developed a strong passion and curiosity about the tech world in general but also learned how important soft-skills are, communicate well with customers, understand quickly their issues, and find the best solution for their needs.
 
-I also had many formative experiences in different shops around my country where understanding the different teams dynamics and needs was foundamental for developing my own team-skills and apply what I learned in own my team.
+I also had many formative experiences in different shops around my country where understanding the different team's dynamics and needs was fundamental for developing my own team-skills and apply what I learned in own my team.
 
-Thanks to that experience I started to be curious about what is 'behind the tecnologies' I worked with for many years and as soon arrived in UK, I decided that will be my new career.
+Thanks to that experience I started to be curious about what is  ' behind the technologies ' I worked with for many years and as soon arrived in the UK, I decided that will be my new career.
 
-I enrolled in  [Makers Academy](https://makers.tech/) bootcamp, where I quickly learned engineering best practices, tools and methodologies and the importance of deconstruct big problems into small ones and solve them in order to solve the bigger coding issue.
-I also discovered how much I enjoy learn new tecnologies and apply them to my projects.
+I enrolled in [Makers Academy](www.makers.tech)) Bootcamp, where I quickly learned engineering best practices, tools, and methodologies and the importance of deconstruct big problems into small ones and solve them in order to solve the bigger coding issue. I also discovered how much I enjoy learn new technologies and apply them to my projects.
 
 ## Projects
 
@@ -44,22 +43,22 @@ I also discovered how much I enjoy learn new tecnologies and apply them to my pr
 (September 2012 – October 2018)  
 Client Coach - Retail Sales Advisor 
 
-* Assisted solving technologies devices issues, hardware and software side. 
+* I assisted in solving technology devices issues, hardware and software side. 
 
 * Planning team strategies to achieve the company’s monthly target effectively working with the store manager and area manager collaboration respecting mandatories deadlines.
 
-* Learn constantly new plans and contracts for our customers and new software and digitals platform internal and from third parts.
+* Learned constantly new plans and contracts for our customers and how to use new software and digitals platforms internally and from third parties.
 
-* Created staff members schedules trying to balance all their requests and needs to keep a strong and motivated group so they worked productively. 
+* Created staff members' schedules trying to balance all their requests and needs to keep a strong and motivated group so they work productively. 
 
-* Sell differt kind of technologies and sets contracts for private and business customers. 
+* Sell different kinds of technologies and sets contracts for private and business customers. 
 
 
 ## Skills
 
 ### Team Work
 
-Working in different stores and with different teams during my career let me constantly improve my soft-skill that I consider as much important as the technical skills.
+Working in different stores and with different teams during my career let me constantly improve my soft-skill that I consider as much important as technical skills.
 In the past, I found myself often meeting with my colleagues where we had to decide the best strategy for achieving our monthly targets, which services to implement in order to find the best feedback from our customers, and even decide if and when to quickly change strategy if something suddenly happened.
 Even during my Bootcamp, constantly pair with other students every day forced me to understand the people first, help them if you know something more, and continuously ask questions if you don't understand a concept. 
 For all these reasons I continuously attend weekly process workshops and reviews with other students and coaches.
@@ -67,14 +66,12 @@ During this particular moment for everybody, where most of the work is decentral
 
 ### Problem Solving 
 
-Set new strategies and plans in order to achieve goals has been always the approach that I tried to have at my old jobs and fortunately the first mental approach learnead at Maker, 'is not hard is just knew'.
-Deconstruct a big problem, decide wich tecnologies use in order to solve our problems is one of the kye-concepts of TDD development process and we were forced to stick to this amazing practice for all our Bootcamp. 
-When we worked in team for our final 
+Set new strategies and plans in order to achieve goals has been always the approach that I tried to have at my old jobs and fortunately, is also the first mental approach learned at Maker, 'is not hard is just new'.
+Deconstruct a big problem in smaller parts, decide which technologies use in order to solve our problems is one of the kye-concepts of the TDD development process and we were oriented to stick to this amazing practice for all our Bootcamp. 
 
 ### Self driven learning
 
-Constantely during our Bootcamp we had to learn new technologies, languages, testing framework and methodologies and most of our time was center on solo learning moments with the possibility, during our pair sessions ,to share our knowledge. Personally before and after my Makers experience I worked as a waiter and set my days in order to self learn JS server side and improve my NodeJS skills. In my old job in Italy every months we received guide-lines to learn new plans and type of conctracts the company decided to propose to our customers those was followed to new functionality to learn on our software, but also working in software differents from ours; when we proposed plans for others on demand services (Sky, TIMVISION +, Mediaset Premium) we had to learn how those systems work too and become familiar with them as soon as possible.
-
+Constantly during our Bootcamp, we had to learn new technologies, languages, testing framework, and methodologies and most of our time was center on solo learning moments with the possibility, during our pair sessions, to share our knowledge. Personally before and after my Makers experience, I worked as a waiter and set my days in order to self-learn JS server-side and improve my NodeJS skills. In my old job in Italy every month we received guide-lines to learn new plans and type of contracts the company decided to propose to our customers every month and those were followed to new functionality to learn on our software but also working with third parties software and systems; when we proposed plans for others on-demand services (Sky, TIM VISION +, Mediaset Premium) we had to learn how those systems work too and become familiar with them as soon as possible.
 
 ## Education
 
@@ -91,10 +88,6 @@ Constantely during our Bootcamp we had to learn new technologies, languages, tes
 - Accountant
 - Public and Private Law
 - Software Developer
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 - Love play tennis and foosball :tennis:
