@@ -50,7 +50,7 @@ Client Coach - Retail Sales Advisor
 
 * Created staff members schedules trying to balance all their requests and needs to keep a strong and motivated group so they worked productively. 
 
-* Sell differt kind of technologies amd sets contracts for private and business customers. 
+* Sell differt kind of technologies and sets contracts for private and business customers. 
 
 
 ## Skills
@@ -73,18 +73,6 @@ When we worked in team for our final
 
 Constantely during our Bootcamp we had to learn new technologies, languages, testing framework and methodologies and most of our time was center on solo learning moments with the possibility, during our pair sessions ,to share our knowledge. Personally before and after my Makers experience I worked as a waiter and set my days in order to self learn JS server side and improve my NodeJS skills. In my old job in Italy every months we received guide-lines to learn new plans and type of conctracts the company decided to propose to our customers those was followed to new functionality to learn on our software, but also working in software differents from ours; when we proposed plans for others on demand services (Sky, TIMVISION +, Mediaset Premium) we had to learn how those systems work too and become familiar with them as soon as possible.
 
-- Experience
-- Achievements
-- Evidence
-
-
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -92,8 +80,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, NodeJS
-- HTML, CSS, JS ,jQuery
+- Ruby, Rails, JavaScript, NodeJS, React
+- HTML, CSS, JS , jQuery
 - RSpec, Jasmine, Jest
 
 #### ITC "F.Marchi" - High School Diploma 
