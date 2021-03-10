@@ -107,7 +107,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
-- Love play tennis and table football
-- Watching NBA
+- Love play tennis and table football :tennis:
+- Watching NBA :basketball:
 - Prepare pasta recipes, my next team have to try my :spaghetti:
-Any cool stuff that makes you a super part of a software development team
