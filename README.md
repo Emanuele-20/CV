@@ -53,33 +53,33 @@ Client Coach - Retail Sales Advisor
 
 * I assisted in solving technology devices issues, hardware and software side. 
 
-* Planning team strategies to achieve the company’s monthly target effectively working with the store manager and area manager collaboration respecting mandatories deadlines.
+* Planning team strategies to achieve the company’s monthly target effectively assisting with the store manager and area manager respecting mandatories deadlines.
 
-* Learned constantly new plans and contracts for our customers and how to use new software and digitals platforms internally and from third parties.
+* Learned constantly new plans and contracts for our customers and how to use new software and digital platforms internally and for third parties.
 
 * Created staff members' schedules trying to balance all their requests and needs to keep a strong and motivated group so they work productively. 
 
-* Sell different kinds of technologies and sets contracts for private and business customers. 
+* Sell different kinds of technologies and set contracts for private and business customers. 
 
 
 ## Skills
 
 ### Team Work
 
-Working in different stores and with different teams during my career let me constantly improve my soft-skill that I consider as much important as technical skills.
+Working in different stores and with different teams during my career allowed me to constantly improve my soft-skill, which I consider as important as technical skills.
 In the past, I found myself often meeting with my colleagues where we had to decide the best strategy for achieving our monthly targets, which services to implement in order to find the best feedback from our customers, and even decide if and when to quickly change strategy if something suddenly happened.
-Even during my Bootcamp, constantly pair with other students every day forced me to understand the people first, help them if you know something more, and continuously ask questions if you don't understand a concept. 
-For all these reasons I continuously attend weekly process workshops and reviews with other students and coaches.
-During this particular moment for everybody, where most of the work is decentralized, is more and more important to create and support a healthy team-work environment and being a true believer in the balances that each team has.
+Even during my Bootcamp, pairing with other students every day forced me to understand the people first, help them if I knew something more, and continuously ask questions if I did not understand a concept. 
+For all these reasons I currently attend weekly process workshops and reviews with other students and coaches.
+During this difficult moments for everybody, where most of the work is decentralized, is more important than ever to create and support a healthy team-work environment and being a true believer in the balances that each team has.
 
 ### Problem Solving 
 
-Set new strategies and plans in order to achieve goals has been always the approach that I tried to have at my old jobs and fortunately, is also the first mental approach learned at Maker, 'is not hard is just new'.
-Deconstruct a big problem in smaller parts, decide which technologies use in order to solve our problems is one of the kye-concepts of the TDD development process and we were oriented to stick to this amazing practice for all our Bootcamp. 
+Setting new strategies and plans in order to achieve goals has always been the approach that I tried to have at my previous jobs and fortunately, is also the first mental approach learned at Makers, 'is not hard is just new'.
+Deconstructing a big problem in smaller parts, deciding which technologies to use in order to solve our problems is one of the kye-concepts of the TDD development process and we were oriented to stick to this amazing practice during the entire period of the Bootcamp. 
 
 ### Self driven learning
 
-Constantly during our Bootcamp, we had to learn new technologies, languages, testing framework, and methodologies and most of our time was center on solo learning moments with the possibility, during our pair sessions, to share our knowledge. Personally before and after my Makers experience, I worked as a waiter and set my days in order to self-learn JS server-side and improve my NodeJS skills. In my old job in Italy every month we received guide-lines to learn new plans and type of contracts the company decided to propose to our customers every month and those were followed to new functionality to learn on our software but also working with third parties software and systems; when we proposed plans for others on-demand services (Sky, TIM VISION +, Mediaset Premium) we had to learn how those systems work too and become familiar with them as soon as possible.
+Constantly during our Bootcamp, we had to learn new technologies, languages, testing framework, and methodologies and most of our time was center on solo learning moments with the possibility, during our pair sessions, to share our knowledge. Personally before and after my Makers experience, I worked as a waiter and set my days in order to self-learn JS server-side and improve my NodeJS skills. In my previous job in Italy every month we received guide-lines to learn new plans and type of contracts the company decided to propose to our customers and those were followed by new functionality to learn on our software but also working with third parties software and systems; when we proposed plans for others on-demand services (Sky, TIM VISION +, Mediaset Premium) we had to learn how those systems work too and become familiar with them as soon as possible.
 
 ## Education
 
@@ -100,4 +100,4 @@ Constantly during our Bootcamp, we had to learn new technologies, languages, tes
 ## Hobbies
 - Love play tennis and foosball :tennis:
 - Watching NBA :basketball:
-- Prepare pasta recipes, my next team have to try my :spaghetti:
+- Creating new pasta recipes, the team has to try my :spaghetti:
