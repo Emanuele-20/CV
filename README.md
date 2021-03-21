@@ -49,7 +49,7 @@ I enrolled in [Makers Academy](www.makers.tech)) Bootcamp, where I quickly learn
 
 **[TIM](www.tim.it) - Telecom Italia Mobile** - Florence, Italy
 (September 2012 – October 2018)  
-Client Coach - Retail Sales Advisor 
+Client Coach - Sales Representative  
 
 * I assisted in solving technology devices issues, hardware and software side. 
 
