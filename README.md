@@ -23,7 +23,7 @@
 
 I am a passionate, hard worker, and motivated junior software developer with a deep-rooted passion for my own self-development. I really enjoy creating a clean and test-driven code in a stimulating work environment to build products and services consumers can enjoy and I am a strong believer in teamwork.
 
-I spent almost my all life in my native country, Italy, where in the last 6 years I worked as a Client Coach and Retailer for one of the biggest Italian telecommunications companies - [TIM](www.tim.it)
+I spent almost my all life in my native country, Italy, where in the last 6 years I worked as a Client Coach and Sales Representative for one of the biggest Italian telecommunications companies - [TIM](www.tim.it)
 
 During this long experience, I worked with a multitude of technologies such as Smartphone, IoT, Google Home, Drones, Smartwatch, Computers but also set contracts about fiber broadband, Sky, Google Nest for private customers and companies.
 
@@ -75,7 +75,7 @@ During this difficult moments for everybody, where most of the work is decentral
 ### Problem Solving 
 
 Setting new strategies and plans in order to achieve goals has always been the approach that I tried to have at my previous jobs and fortunately, is also the first mental approach learned at Makers, 'is not hard is just new'.
-Deconstructing a big problem in smaller parts, deciding which technologies to use in order to solve our problems is one of the kye-concepts of the TDD development process and we were oriented to stick to this amazing practice during the entire period of the Bootcamp. As Client Coach and Retailer we were the first customer care, the direct filter between the company and customers so many times for contractual problem, hard-ware and software problem we as the employee had to manage the situation, deconstruct the problem and based on the customer's input decide the best strategy apply for that specific situation and solve problems as fast as possible.
+Deconstructing a big problem in smaller parts, deciding which technologies to use in order to solve our problems is one of the kye-concepts of the TDD development process and we were oriented to stick to this amazing practice during the entire period of the Bootcamp. As Client Coach and Sales Representative we were the first customer care, the direct filter between the company and customers so many times for contractual problem, hard-ware and software problem we as the employee had to manage the situation, deconstruct the problem and based on the customer's input decide the best strategy apply for that specific situation and solve problems as fast as possible.
 
 ### Self driven learning
 
