@@ -27,13 +27,11 @@ I spent almost my all life in my native country, Italy, where in the last 6 year
 
 During this long experience, I worked with a multitude of technologies such as Smartphone, IoT, Google Home, Drones, Smartwatch, Computers but also set contracts about fiber broadband, Sky, Google Nest for private customers and companies.
 
-During this amazing experience, I developed a strong passion and curiosity about the tech world in general but also learned how important soft-skills are, communicate well with customers, understand quickly their issues, and find the best solution for their needs.
-
-I also had many formative experiences in different shops around my country where understanding the different team's dynamics and needs was fundamental for developing my own team-skills and apply what I learned in own my team.
+I enrolled in [Makers Academy](https://www.makers.tech) Bootcamp, where I quickly learned engineering best practices, tools, and methodologies and the importance of deconstruct big problems into small ones and solve them in order to solve the bigger coding issue. I also discovered how much I enjoy learn new technologies and apply them to my projects.
 
 Thanks to that experience I started to be curious about what is  ' behind the technologies ' I worked with for many years and as soon arrived in the UK, I decided that will be my new career.
 
-I enrolled in [Makers Academy](https://www.makers.tech) Bootcamp, where I quickly learned engineering best practices, tools, and methodologies and the importance of deconstruct big problems into small ones and solve them in order to solve the bigger coding issue. I also discovered how much I enjoy learn new technologies and apply them to my projects.
+
 
 ## Projects
 
@@ -64,12 +62,17 @@ Client Coach - Sales Representative
 
 ## Skills
 
-### Team Work
+### Team Work / Emotion Intelligence 
 
 Working in different stores and with different teams during my career allowed me to constantly improve my soft-skill, which I consider as important as technical skills.
 In the past, I found myself often meeting with my colleagues where we had to decide the best strategy for achieving our monthly targets, which services to implement in order to find the best feedback from our customers, and even decide if and when to quickly change strategy if something suddenly happened.
+During this amazing experience, I developed a strong passion and curiosity about the tech world in general but also learned how important soft-skills are, communicate well with customers, understand quickly their issues, and find the best solution for their needs.
 Even during my Bootcamp, pairing with other students every day forced me to understand the people first, help them if I knew something more, and continuously ask questions if I did not understand a concept. 
-For all these reasons I currently attend weekly process workshops and reviews with other students and coaches.
+For all these reasons I currently attend weekly process workshops and reviews with other students and coaches continuing to learn and share new concepts and methodologies.
+
+I also had many formative experiences in different shops around my country where understanding the different team's dynamics and needs was fundamental for developing my own team-skills and apply what I learned in own my team.
+
+
 During this difficult moments for everybody, where most of the work is decentralized, is more important than ever to create and support a healthy team-work environment and being a true believer in the balances that each team has.
 
 ### Problem Solving 
@@ -86,10 +89,14 @@ Constantly during our Bootcamp, we had to learn new technologies, languages, tes
 #### Makers Academy (May 2020 to July 2020)
 
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, NodeJS, React
-- HTML, CSS, JS , jQuery
+- Agile/XP, Pair Programming, Git workflow, Code Review
+- Ruby, NodeJs, Html, Css, JavaScript, jQuery, React
 - RSpec, Jasmine, Jest
+- The training is primarily self-led, encouraging students to develop solutions to problems by themselves, great coach's structure ready to guide you learning. 
+- Using Agile/XP methodologies and practices, such as pair programming every day with different students and teams to create working and well-tested programs and problem solve effetely. 
+- Refactoring each other code in order to have a clear and D.R.Y. code for a better future implementation for us and other developers in our team. 
+- Constantly use pair-programming alongside TDD technique for our projects in order to create working and well-tested programs and problem solve effetely.  
+- Develop capacities to learn new programming languages, new testing frameworks and all the new technologies we encountered on the Bootcamp by our own or as a team and apply them on different projects. 
 
 #### ITC "F.Marchi" - High School Diploma 
 
