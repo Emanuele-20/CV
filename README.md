@@ -5,6 +5,7 @@
 
 <div align="center">
   
+  
 <a href="https://www.linkedin.com/in/emanuele-pace10/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:emanuele.10@utlook.it"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> <a href="https://github.com/Emanuele-20"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""></a>
 
 
@@ -20,7 +21,7 @@
 
 </div>
 
-
+<div align="justify">
 I am a passionate, hard worker, and motivated junior software developer with a deep-rooted passion for my own self-development. I really enjoy creating a clean and test-driven code in a stimulating work environment to build products and services consumers can enjoy and I am a strong believer in teamwork.
 
 I spent almost my all life in my native country, Italy, where in the last 6 years I worked as a Client Coach and Sales Representative for one of the biggest Italian telecommunications companies - [TIM](https://www.tim.it)
@@ -108,5 +109,7 @@ Constantly during our Bootcamp, we had to learn new technologies, languages, tes
 - Love play tennis and foosball :tennis:
 - Watching NBA :basketball:
 - Creating new pasta recipes, the team has to try my :spaghetti:
+
+</div>
 
 
