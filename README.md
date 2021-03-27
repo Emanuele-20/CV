@@ -96,7 +96,7 @@ Constantly during our Bootcamp, we had to learn new technologies, languages, tes
 - The training is primarily self-led, encouraging students to develop solutions to problems by themselves, great coach's structure ready to guide you learning. 
 - Using Agile/XP methodologies and practices, such as pair programming every day with different students and teams to create working and well-tested programs and problem solve effetely. 
 - Refactoring each other code in order to have a clear and D.R.Y. code for a better future implementation for us and other developers in our team. 
-- Constantly use pair-programming alongside TDD technique for our projects in order to create working and well-tested programs and problem solve effetely.  
+- Constantly doing pair-programming using communication skills and emotional intelligence alongside TDD technique for our projects in order to create working and well-tested programs and problem solve effetely.  
 - Develop capacities to learn new programming languages, new testing frameworks and all the new technologies we encountered on the Bootcamp by our own or as a team and apply them on different projects. 
 
 #### ITC "F.Marchi" - High School Diploma 
