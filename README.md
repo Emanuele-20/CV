@@ -18,7 +18,7 @@
 ---------------
 
 
-</div align = "justify">
+</div>
 
 
 I am a passionate, hard worker, and motivated junior software developer with a deep-rooted passion for my own self-development. I really enjoy creating a clean and test-driven code in a stimulating work environment to build products and services consumers can enjoy and I am a strong believer in teamwork.
@@ -109,4 +109,4 @@ Constantly during our Bootcamp, we had to learn new technologies, languages, tes
 - Watching NBA :basketball:
 - Creating new pasta recipes, the team has to try my :spaghetti:
 
-</div>
+
