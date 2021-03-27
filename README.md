@@ -49,15 +49,16 @@ Thanks to that experience I started to be curious about what is  ' behind the te
 (September 2012 – October 2018)  
 Client Coach - Sales Representative  
 
-* I assisted in solving technology devices issues, hardware and software side. 
+ 
+* Developed negotiation, communication and analysis skills thanks to my coaching role, where I used to help customers familiarize with new technologies and explain how our product and services can implement the productivity of their lives.  
 
-* Planning team strategies to achieve the company’s monthly target effectively assisting with the store manager and area manager respecting mandatories deadlines.
+* Leaded my learning constantly with new plans and contracts for our customers and managed hot  to use new software and digital platforms internally and for third parties.
 
-* Learned constantly new plans and contracts for our customers and how to use new software and digital platforms internally and for third parties.
+* Used my problem-solving approach to solve technologies devices issues, hardware and software side for our customers. Managed incompatibility issues working constantly with many different internal software and third party's software. 
 
-* Created staff members' schedules trying to balance all their requests and needs to keep a strong and motivated group so they work productively. 
+* Planning strategies with my team to achieve the company’s monthly targets effectively working with the store manager and area manager collaboration. 
 
-* Sell different kinds of technologies and set contracts for private and business customers. 
+* Trained my empathy skills being aware of other people, understanding their needs and trying to solve them with products or services my company can provide. The scope was built customer loyalty not just close one single sale. 
 
 
 ## Skills
@@ -67,18 +68,18 @@ Client Coach - Sales Representative
 Working in different stores and with different teams during my career allowed me to constantly improve my soft-skill, which I consider as important as technical skills.
 In the past, I found myself often meeting with my colleagues where we had to decide the best strategy for achieving our monthly targets, which services to implement in order to find the best feedback from our customers, and even decide if and when to quickly change strategy if something suddenly happened.
 During this amazing experience, I developed a strong passion and curiosity about the tech world in general but also learned how important soft-skills are, communicate well with customers, understand quickly their issues, and find the best solution for their needs.
+
+
 Even during my Bootcamp, pairing with other students every day forced me to understand the people first, help them if I knew something more, and continuously ask questions if I did not understand a concept. 
-For all these reasons I currently attend weekly process workshops and reviews with other students and coaches continuing to learn and share new concepts and methodologies.
-
 I also had many formative experiences in different shops around my country where understanding the different team's dynamics and needs was fundamental for developing my own team-skills and apply what I learned in own my team.
-
+I currently attend weekly process workshops and reviews with other students and coaches continuing to learn and share new concepts and methodologies.
 
 During this difficult moments for everybody, where most of the work is decentralized, is more important than ever to create and support a healthy team-work environment and being a true believer in the balances that each team has.
 
 ### Problem Solving 
 
 Setting new strategies and plans in order to achieve goals has always been the approach that I tried to have at my previous jobs and fortunately, is also the first mental approach learned at Makers, 'is not hard is just new'.
-Deconstructing a big problem in smaller parts, deciding which technologies to use in order to solve our problems is one of the kye-concepts of the TDD development process and we were oriented to stick to this amazing practice during the entire period of the Bootcamp. As Client Coach and Sales Representative we were the first customer care, the direct filter between the company and customers so many times for contractual problem, hard-ware and software problem we as the employee had to manage the situation, deconstruct the problem and based on the customer's input decide the best strategy apply for that specific situation and solve problems as fast as possible.
+Deconstructing a big problem in smaller parts, deciding which technologies to use in order to solve our problems is one of the kye-concepts of the TDD development process and we were oriented to stick to this amazing practice during the entire period of the Bootcamp. As Client Coach and Sales Representative we were the first customer care, the direct filter between the company and customers so many times for contractual problems, hard-ware and software issues we as the employee had to manage the situation, deconstruct the problem and based on the customer's input decide the best strategy apply for that specific situation and solve problems as fast as possible.
 
 ### Self driven learning
 
@@ -88,8 +89,7 @@ Constantly during our Bootcamp, we had to learn new technologies, languages, tes
 
 #### Makers Academy (May 2020 to July 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP, Pair Programming, Git workflow, Code Review
+- OOP, TDD, Agile/XP, Pair Programming, Git workflow, Code Review
 - Ruby, NodeJs, Html, Css, JavaScript, jQuery, React
 - RSpec, Jasmine, Jest
 - The training is primarily self-led, encouraging students to develop solutions to problems by themselves, great coach's structure ready to guide you learning. 
