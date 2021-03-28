@@ -82,7 +82,6 @@ During this particolar moment for everybody, where most of the work is decentral
 Setting new strategies and plans in order to achieve goals has always been the approach that I tried to have at my previous jobs and fortunately, is also the first mental approach learned at Makers, 'is not hard is just new'.
 
 Deconstructing a big problem in smaller parts, deciding which technologies to use in order to solve our problems is one of the kye-concepts of the TDD development process and we were oriented to stick to this amazing practice during the entire period of the Bootcamp. 
-
 As Client Coach and Sales Representative we were the first customer care, the direct filter between the company and customers so many times for contractual problems, hard-ware and software issues we as the employee had to manage the situation, deconstruct the problem and based on the customer's input decide the best strategy apply for that specific situation and solve problems as fast as possible.
 
 ### Self driven learning
