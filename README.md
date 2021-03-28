@@ -75,7 +75,7 @@ Even during my Bootcamp, pairing with other students every day forced me to unde
 I also had many formative experiences in different shops around my country where understanding the different team's dynamics and needs was fundamental for developing my own team-skills and apply what I learned in own my team.
 I currently attend weekly process workshops and reviews with other students and coaches continuing to learn and share new concepts and methodologies.
 
-During this difficult moments for everybody, where most of the work is decentralized, is more important than ever to create and support a healthy team-work environment and being a true believer in the balances that each team has.
+During this particolar moment for everybody, where most of the work is decentralized, is more important than ever to create and support a healthy team-work environment and being a true believer in the balances that each team has.
 
 ### Problem Solving 
 
