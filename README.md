@@ -80,11 +80,17 @@ During this particolar moment for everybody, where most of the work is decentral
 ### Problem Solving 
 
 Setting new strategies and plans in order to achieve goals has always been the approach that I tried to have at my previous jobs and fortunately, is also the first mental approach learned at Makers, 'is not hard is just new'.
-Deconstructing a big problem in smaller parts, deciding which technologies to use in order to solve our problems is one of the kye-concepts of the TDD development process and we were oriented to stick to this amazing practice during the entire period of the Bootcamp. As Client Coach and Sales Representative we were the first customer care, the direct filter between the company and customers so many times for contractual problems, hard-ware and software issues we as the employee had to manage the situation, deconstruct the problem and based on the customer's input decide the best strategy apply for that specific situation and solve problems as fast as possible.
+
+Deconstructing a big problem in smaller parts, deciding which technologies to use in order to solve our problems is one of the kye-concepts of the TDD development process and we were oriented to stick to this amazing practice during the entire period of the Bootcamp. 
+
+As Client Coach and Sales Representative we were the first customer care, the direct filter between the company and customers so many times for contractual problems, hard-ware and software issues we as the employee had to manage the situation, deconstruct the problem and based on the customer's input decide the best strategy apply for that specific situation and solve problems as fast as possible.
 
 ### Self driven learning
 
-Constantly during our Bootcamp, we had to learn new technologies, languages, testing framework, and methodologies and most of our time was center on solo learning moments with the possibility, during our pair sessions, to share our knowledge. Personally before and after my Makers experience, I worked as a waiter and set my days in order to self-learn JS server-side and improve my NodeJS skills. In my previous job in Italy every month we received guide-lines to learn new plans and type of contracts the company decided to propose to our customers and those were followed by new functionality to learn on our software but also working with third parties software and systems; when we proposed plans for others on-demand services (Sky, TIM VISION +, Mediaset Premium) we had to learn how those systems work too and become familiar with them as soon as possible.
+Constantly during our Bootcamp, we had to learn new technologies, languages, testing framework, and methodologies and most of our time was center on solo learning moments with the possibility, during our pair sessions, to share our knowledge. 
+
+Personally before and after my Makers experience, I worked as a waiter and set my days in order to self-learn JS server-side and improve my NodeJS skills.
+In my previous job in Italy every month we received guide-lines to learn new plans and type of contracts the company decided to propose to our customers and those were followed by new functionality to learn on our software but also working with third parties software and systems; when we proposed plans for others on-demand services (Sky, TIM VISION +, Mediaset Premium) we had to learn how those systems work too and become familiar with them as soon as possible.
 
 ## Education
 
