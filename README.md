@@ -60,7 +60,7 @@ At TIM, I was responsible for  providing a  range of software and hardware solut
 * **Problem-solving**: After understanding my client’s software and hardware issues, I needed to quickly find  the most appropriate solution from  a variety of internal and third party platforms.
 * **Collaboration**: I worked strategically with my team and area managers to achieve and exceed monthly targets.
 
-**[Manteca](https://mantecarestaurant.co.uk/)** and  **[Côte de Brasserie](https://www.cote.co.uk/)** - London, UK
+**[Manteca](https://mantecarestaurant.co.uk/)** and  **[Côte de Brasserie](https://www.cote.co.uk/)** - London, UK **
 (October 2018 - Actual job)
 Waiter
 
