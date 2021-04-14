@@ -88,7 +88,7 @@ After I decided to pursue software development as a full-time career, I moved to
 #### Makers Academy (May 2020 to July 2020)
 * Makers Academy (May 2020 to July 2020)
 * OOP, TDD, Agile/XP, Pair Programming, Git workflow, Code Review
-* Ruby, Node.Js, HTML, CSS, JavaScript, jQuery, React
+* Ruby, Node.JS, HTML, CSS, JavaScript, jQuery, React
 * RSpec, Jasmine, Jest
 * Agile and XP Methodology
 * Refactoring, Code Reviews using design concepts such as D.R.Y
