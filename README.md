@@ -61,6 +61,7 @@ At TIM, I was responsible for  providing a  range of software and hardware solut
 * **Collaboration**: I worked strategically with my team and area managers to achieve and exceed monthly targets.
 
 **[Manteca](https://mantecarestaurant.co.uk/) - London, UK
+
 **[Côte de Brasserie](https://www.cote.co.uk/) - London, UK
 (October 2018 - Actual job)
 Waiter
