@@ -102,9 +102,9 @@ After I decided to pursue software development as a full-time career, I moved to
 - Software Developer
 
 ## Hobbies
-- Love play tennis and foosball :tennis:
-- Watching NBA :basketball:
-- Creating new pasta recipes, the team has to try my :spaghetti:
+- Play tennis and foosball :tennis:
+- Watch NBA :basketball:
+- Cooking :spaghetti:
 
 </div>
 
