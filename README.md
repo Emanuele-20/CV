@@ -49,7 +49,7 @@ I am still fascinated in understanding deeply how these technologies work and no
 
 **[TIM](www.tim.it) - Telecom Italia Mobile** - Florence, Italy
 (September 2012 – October 2018)  
-Client Coach - Sales Representative  
+**Client Coach - Sales Representative**  
 
 
 At TIM, I was responsible for  providing a  range of software and hardware solutions to private and corporate companies including smartphones, IoT, Google Home, drones, smartwatches, computers. Core skills included:
@@ -61,7 +61,6 @@ At TIM, I was responsible for  providing a  range of software and hardware solut
 * **Collaboration**: I worked strategically with my team and area managers to achieve and exceed monthly targets.
 
 **[Manteca](https://mantecarestaurant.co.uk/) and [Côte de Brasserie](https://www.cote.co.uk/)** - London, UK 
-
 (October 2018 - Actual job)
 Waiter
 
