@@ -54,11 +54,11 @@ Client Coach - Sales Representative
 
 At TIM, I was responsible for  providing a  range of software and hardware solutions to private and corporate companies including smartphones, IoT, Google Home, drones, smartwatches, computers. Core skills included:
 
-* Client Communication: I clearly communicated the benefit of new technologies to our clients  to support them in choosing the right products and services.
-* Listening: Developing empathy and deep listening skills allowed me to understand client needs. I was then able to solve technology problems efficiently while building brand loyalty.
-* Training  I trained internal and external stakeholders to use new software and digital platforms. 
-* Problem-solving: After understanding my client’s software and hardware issues, I needed to quickly find  the most appropriate solution from  a variety of internal and third party platforms.
-* Collaboration. I worked strategically with my team and area managers to achieve and exceed monthly targets.
+* **Client Communication**: I clearly communicated the benefit of new technologies to our clients  to support them in choosing the right products and services.
+* **Listening**: Developing empathy and deep listening skills allowed me to understand client needs. I was then able to solve technology problems efficiently while building brand loyalty.
+* **Training**: I trained internal and external stakeholders to use new software and digital platforms. 
+* **Problem-solving**: After understanding my client’s software and hardware issues, I needed to quickly find  the most appropriate solution from  a variety of internal and third party platforms.
+* **Collaboration**: I worked strategically with my team and area managers to achieve and exceed monthly targets.
 
 
 
@@ -85,7 +85,7 @@ After I decided to pursue software development as a full-time career, I moved to
 
 
 ## Education
-#### Makers Academy (May 2020 to July 2020)
+#### [Makers Academy](https://www.makers.tech) (May 2020 to July 2020)
 
 * OOP, TDD, Agile/XP, Pair Programming, Git workflow, Code Review
 * Ruby, Node.JS, HTML, CSS, JavaScript, jQuery, React
