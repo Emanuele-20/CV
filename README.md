@@ -22,15 +22,16 @@
 </div>
 
 <div align="justify">
-I am a passionate, hard worker, and motivated junior software developer with a deep-rooted passion for my own self-development. I really enjoy creating a clean and test-driven code in a stimulating work environment to build products and services consumers can enjoy and I am a strong believer in teamwork.
+  
+I am a passionate, hard working and motivated junior software developer with a deep-rooted passion for my own self-development. I really enjoy creating a clean and test-driven code in a stimulating work environment to build products and services consumers can enjoy and I am a strong believer in teamwork.
 
-I spent almost my all life in my native country, Italy, where in the last 6 years I worked as a Client Coach and Sales Representative for one of the biggest Italian telecommunications companies - [TIM](https://www.tim.it)
+I worked for six years as a technical client coach for one of Italy’s biggest Italian telecommunication companies,[TIM](https://www.tim.it) using a multitude of hardware and software technologies including wearable tech and IoT. I became fascinated in what’s ‘behind the technologies’ and this led me to the UK, where I taught myself to code while working full-time before joining Makers.
 
-During this long experience, I worked with a multitude of technologies such as Smartphone, IoT, Google Home, Drones, Smartwatch, Computers but also set contracts about fiber broadband, Sky, Google Nest for private customers and companies.
+I am still fascinated in understanding deeply how these technologies work and now I’m equally obsessed by clean coding principles and deconstructing big problems into solvable problems. I’m excited to continue my own growth in a professional technical team working on solutions to some interesting and difficult challenges.
 
-I enrolled in [Makers Academy](https://www.makers.tech) Bootcamp, where I quickly learned engineering best practices, tools, and methodologies and the importance of deconstruct big problems into small ones and solve them in order to solve the bigger coding issue. I also discovered how much I enjoy learn new technologies and apply them to my projects.
 
-Thanks to that experience I started to be curious about what is  ' behind the technologies ' I worked with for many years and as soon arrived in the UK, I decided that will be my new career.
+
+
 
 
 
@@ -50,59 +51,49 @@ Thanks to that experience I started to be curious about what is  ' behind the te
 (September 2012 – October 2018)  
 Client Coach - Sales Representative  
 
- 
-* Developed negotiation, communication and analysis skills thanks to my coaching role, where I used to help customers familiarize with new technologies and explain how our product and services can implement the productivity of their lives.  
 
-* Leaded my learning constantly with new plans and contracts for our customers and managed hot  to use new software and digital platforms internally and for third parties.
+At TIM, I was responsible for  providing a  range of software and hardware solutions to private and corporate companies including smartphones, IoT, Google Home, drones, smartwatches, computers. Core skills included:
 
-* Used my problem-solving approach to solve technologies devices issues, hardware and software side for our customers. Managed incompatibility issues working constantly with many different internal software and third party's software. 
+* Client Communication: I clearly communicated the benefit of new technologies to our clients  to support them in choosing the right products and services.
+* Listening: Developing empathy and deep listening skills allowed me to understand client needs. I was then able to solve technology problems efficiently while building brand loyalty.
+* Training  I trained internal and external stakeholders to use new software and digital platforms. 
+* Problem-solving: After understanding my client’s software and hardware issues, I needed to quickly find  the most appropriate solution from  a variety of internal and third party platforms.
+* Collaboration. I worked strategically with my team and area managers to achieve and exceed monthly targets.
 
-* Planning strategies with my team to achieve the company’s monthly targets effectively working with the store manager and area manager collaboration. 
 
-* Trained my empathy skills being aware of other people, understanding their needs and trying to solve them with products or services my company can provide. The scope was built customer loyalty not just close one single sale. 
+
+
+
 
 
 ## Skills
 
-### Team Work / Emotion Intelligence 
+### Teamwork & Emotional Intelligence
 
-Working in different stores and with different teams during my career allowed me to constantly improve my soft-skill, which I consider as important as technical skills.
-In the past, I found myself often meeting with my colleagues where we had to decide the best strategy for achieving our monthly targets, which services to implement in order to find the best feedback from our customers, and even decide if and when to quickly change strategy if something suddenly happened.
-During this amazing experience, I developed a strong passion and curiosity about the tech world in general but also learned how important soft-skills are, communicate well with customers, understand quickly their issues, and find the best solution for their needs.
+I consider soft-skills to be as important as technical skills and I’ve been mindful to develop my own EQ through my career. As part of a small client-facing team at Telecom Italia, we were collectively responsible for our sales strategy and often agreed to change our approach in response to new customer feedback. I learned that the most effective way to secure a sale was to listen and understand client needs before suggesting possible solutions. I secured a loyal customer base as a result. I knew I needed to listen carefully to others at Makers, ask questions to ensure my understanding, help and share what I was learning. This is particularly important in a decentralized working environment.
 
+### Problem Solving
 
-Even during my Bootcamp, pairing with other students every day forced me to understand the people first, help them if I knew something more, and continuously ask questions if I did not understand a concept. 
-I also had many formative experiences in different shops around my country where understanding the different team's dynamics and needs was fundamental for developing my own team-skills and apply what I learned in own my team.
-I currently attend weekly process workshops and reviews with other students and coaches continuing to learn and share new concepts and methodologies.
+Effective goal setting has been a big part of my previous roles and it’s the first mindset we learned at Makers. ‘It’s not hard, it’s just new’.
 
-During this particolar moment for everybody, where most of the work is decentralized, is more important than ever to create and support a healthy team-work environment and being a true believer in the balances that each team has.
-
-### Problem Solving 
-
-Setting new strategies and plans in order to achieve goals has always been the approach that I tried to have at my previous jobs and fortunately, is also the first mental approach learned at Makers, 'is not hard is just new'.
-
-Deconstructing a big problem in smaller parts, deciding which technologies to use in order to solve our problems is one of the kye-concepts of the TDD development process and we were oriented to stick to this amazing practice during the entire period of the Bootcamp. 
-As Client Coach and Sales Representative we were the first customer care, the direct filter between the company and customers so many times for contractual problems, hard-ware and software issues we as the employee had to manage the situation, deconstruct the problem and based on the customer's input decide the best strategy apply for that specific situation and solve problems as fast as possible.
+Test-driven development requires the deconstruction of a problem into smaller parts before deciding what technologies to use to solve those problems. This was familiar to me because problem solving was such a fundamental part of my job as a client coach for Telecom Italia. As the first point of contact for anything from contractual issues to hardware and software questions, I was responsible for deconstructing the problem and solving it as fast as possible. This required a calm, technical approach and using my strong internal relationships throughout the business to find tailoredt solutions to complex problems.. 
 
 ### Self driven learning
+After I decided to pursue software development as a full-time career, I moved to the UK and taught myself server-side JavaScript and Node.js while working full-time as a waiter. Learning new technical concepts fast was a part of my role at  Telecom Italia. Every month we received technical guidelines for new plans, software and systems. I had not only to understand how these systems worked but to be able to explain them clearly to our clients on a deadline. I’m comfortable learning new skills quickly and I’ve really enjoyed learning new methodologies, testing frameworks and languages at Makers both alone and working in a pair.
 
-Constantly during our Bootcamp, we had to learn new technologies, languages, testing framework, and methodologies and most of our time was center on solo learning moments with the possibility, during our pair sessions, to share our knowledge. 
 
-Personally before and after my Makers experience, I worked as a waiter and set my days in order to self-learn JS server-side and improve my NodeJS skills.
-In my previous job in Italy every month we received guide-lines to learn new plans and type of contracts the company decided to propose to our customers and those were followed by new functionality to learn on our software but also working with third parties software and systems; when we proposed plans for others on-demand services (Sky, TIM VISION +, Mediaset Premium) we had to learn how those systems work too and become familiar with them as soon as possible.
+
 
 ## Education
-
 #### Makers Academy (May 2020 to July 2020)
+* Makers Academy (May 2020 to July 2020)
+* OOP, TDD, Agile/XP, Pair Programming, Git workflow, Code Review
+* Ruby, Node.Js, HTML, CSS, JavaScript, jQuery, React
+* RSpec, Jasmine, Jest
+* Agile and XP Methodology
+* Refactoring, Code Reviews using design concepts such as D.R.Y
 
-- OOP, TDD, Agile/XP, Pair Programming, Git workflow, Code Review
-- Ruby, NodeJs, Html, Css, JavaScript, jQuery, React
-- RSpec, Jasmine, Jest
-- The training is primarily self-led, encouraging students to develop solutions to problems by themselves, great coach's structure ready to guide you learning. 
-- Using Agile/XP methodologies and practices, such as pair programming every day with different students and teams to create working and well-tested programs and problem solve effetely. 
-- Refactoring each other code in order to have a clear and D.R.Y. code for a better future implementation for us and other developers in our team. 
-- Constantly doing pair-programming using communication skills and emotional intelligence alongside TDD technique for our projects in order to create working and well-tested programs and problem solve effetely.  
-- Develop capacities to learn new programming languages, new testing frameworks and all the new technologies we encountered on the Bootcamp by our own or as a team and apply them on different projects. 
+
 
 #### ITC "F.Marchi" - High School Diploma 
 
