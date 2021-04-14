@@ -62,7 +62,7 @@ At TIM, I was responsible for  providing a  range of software and hardware solut
 
 **[Manteca](https://mantecarestaurant.co.uk/) and [Côte de Brasserie](https://www.cote.co.uk/)** - London, UK 
 (October 2018 - Actual job)
-Waiter
+**Waiter**
 
 sdfdfsffsdffdfsd
 
