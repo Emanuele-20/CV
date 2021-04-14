@@ -39,10 +39,10 @@ I am still fascinated in understanding deeply how these technologies work and no
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**CodeQuest()**](https://github.com/Emanuele-20/codeQuest)| Final Makers project developing a game for children to develop soft developer skills | JavaScript, Node, React, Redux, Tachyons, CSS, Jest, Travis|
-| [**Thermostat**](https://github.com/Emanuele-20/Thermostat) | A funtional Thermostat Project  | HTML, CSS, JS, NodeJS, jQuery, Jest              |
-| [**Checkout**](https://github.com/Emanuele-20/checkout) | Supermarket Checkout | JS, NodeJs, Jest              |
-| [**Scrabble**](https://github.com/Emanuele-20/scrabble) | Scrabble Game | JS, NodeJs, Jest              |
+| [**CodeQuest()**](https://github.com/Emanuele-20/codeQuest)| Final Makers project developing a game for children to develop soft developer skills | JavaScript, Node.JS, React, Redux, Tachyons, CSS, Jest, Travis|
+| [**Thermostat**](https://github.com/Emanuele-20/Thermostat) | A funtional Thermostat Project  | HTML, CSS, JS, Node.JS, jQuery, Jest              |
+| [**Checkout**](https://github.com/Emanuele-20/checkout) | Supermarket Checkout | JS, Node.JS, Jest              |
+| [**Scrabble**](https://github.com/Emanuele-20/scrabble) | Scrabble Game | JS, Node.JS, Jest              |
 
 
 ## Experience
