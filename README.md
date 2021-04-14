@@ -25,7 +25,7 @@
   
 I am a passionate, hard working and motivated junior software developer with a deep-rooted passion for my own self-development. I really enjoy creating a clean and test-driven code in a stimulating work environment to build products and services consumers can enjoy and I am a strong believer in teamwork.
 
-I worked for six years as a technical client coach for one of Italy’s biggest Italian telecommunication companies,[TIM](https://www.tim.it) using a multitude of hardware and software technologies including wearable tech and IoT. I became fascinated in what’s ‘behind the technologies’ and this led me to the UK, where I taught myself to code while working full-time before joining Makers.
+I worked for six years as a technical client coach for one of Italy’s biggest Italian telecommunication companies ([TIM](https://www.tim.it)) using a multitude of hardware and software technologies including wearable tech and IoT. I became fascinated in what’s ‘behind the technologies’ and this led me to the UK, where I taught myself to code while working full-time before joining Makers.
 
 I am still fascinated in understanding deeply how these technologies work and now I’m equally obsessed by clean coding principles and deconstructing big problems into solvable problems. I’m excited to continue my own growth in a professional technical team working on solutions to some interesting and difficult challenges.
 
