@@ -67,12 +67,11 @@ At TIM, I was responsible for  providing a  range of software and hardware solut
 
 At 'Côte' first and at 'Manteca' now, I am responsable of an entire restaurant section, where I managed comunications with the Kitchen, Bar and other commis waiter in order to provide the best hospitality experience as possible. Core skills included: 
 
-* **Perform in a fast paced environment**: I have to take fast decision and work under pressure when the section assigned is busy and that happen regularly.
-*  **Problem-solving**: I have to always try to find solutions facing unexpected issues, such as the customer is not happy with an order, potentially mistakes from the Kitchen, or potentially mistakes from others waiters that involve my section.
-*  **Collaborations and Communications**: My work involves interaction with other teams (Managers, Bar, Kitchen, Commis) so I constantly improving my communication skills furthermore, I have to know the most important aspects of other teams in order to have a functional and effective collaboration and take the best decisions regarding my job.
+* **Work in a fast paced environment**: I have to make fast decisions and work under pressure when the section assigned is busy and that happens regularly.
 
+* **Problem-solving**:I have to always try to find solutions facing unexpected issues, potentially mistakes from the Kitchen, or potential mistakes from others waiters that interact with my section.
 
-
+* **Collaborations and Communications**: My work involves interaction with other teams (Managers, Bar, Kitchen, Commis) so I constantly improving my communication skills furthermore, I have to know the most important aspects of other teams in order to have a functional and effective collaboration and take the best decisions regarding my job.
 
 ## Skills
 
