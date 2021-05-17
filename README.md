@@ -102,14 +102,14 @@ After I decided to pursue software development as a full-time career, I moved to
 
 
 
-#### ITC "F.Marchi" - High School Diploma 
+#### ITC "F.Marchi" - High School Diploma ("Progetto Mercurio") (2002 - 2007)
 
-- Accountant
+- Accountant (Commercial Expert)
 - Public and Private Law
-- Software Developer
+- Computer Science (COBOL - Visual Basic)
 
 ## Hobbies
-- Play tennis and foosball :tennis:
+- Play tennis :tennis:
 - Watch NBA :basketball:
 - Cooking :spaghetti:
 
