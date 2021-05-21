@@ -39,6 +39,7 @@ I am still fascinated in understanding deeply how these technologies work and no
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [**Robofrieds**](https://github.com/Emanuele-20/robofriends) | An interesting React project that can create Robo-Cards components, grabbing the robot's information from an API call|
 | [**CodeQuest()**](https://github.com/Emanuele-20/codeQuest)| Final Makers project developing a game for children to develop soft developer skills | JavaScript, Node.JS, React, Redux, Tachyons, CSS, Jest, Travis|
 | [**Thermostat**](https://github.com/Emanuele-20/Thermostat) | A funtional Thermostat Project  | HTML, CSS, JS, Node.JS, jQuery, Jest             
 | [**Checkout**](https://github.com/Emanuele-20/checkout) | Supermarket Checkout | JS, Node.JS, Jest              |
