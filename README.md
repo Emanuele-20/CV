@@ -70,7 +70,7 @@ At 'Côte' first and at 'Manteca' now, I am responsible for an entire restaurant
 
 * Work in a fast-paced environment: I have to make fast decisions and work under pressure when the section assigned is busy and that happens regularly.
 
-* Problem-solving**: I have to always try to find solutions facing unexpected issues, potentially mistakes from the Kitchen or potential mistakes from others waiters that interact with my section.
+* Problem-solving: I have to always try to find solutions facing unexpected issues, potentially mistakes from the Kitchen or potential mistakes from others waiters that interact with my section.
 
 * Collaborations and Communications: My work involves interaction with other teams (Managers, Bar, Kitchen, Commis) so I constantly improving my communication skills furthermore, I have to know the most important aspects of other teams in order to have a functional and effective collaboration and take the best decisions regarding my job.
 
