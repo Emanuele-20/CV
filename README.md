@@ -103,7 +103,7 @@ After I decided to pursue software development as a full-time career, I moved to
 
 
 
-#### ITC "F.Marchi" - High School Diploma ("Progetto Mercurio") (2002 - 2007)
+#### ITC "F.Marchi" - High School Diploma (2002 - 2007)
 
 - Accountant (Commercial Expert)
 - Public and Private Law
