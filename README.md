@@ -98,7 +98,7 @@ After I decided to pursue software development as a full-time career, I moved to
 * OOP, TDD, Agile/XP, Pair Programming, Git workflow, Code Review
 * Ruby, Node.JS, HTML, CSS, JavaScript, jQuery, React
 * RSpec, Jasmine, Jest
-* Agile and XP Methodology, CI / CD
+* CI / CD
 * Refactoring, Code Reviews using design concepts such as D.R.Y
 
 
